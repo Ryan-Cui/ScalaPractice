@@ -1,8 +1,8 @@
-package cn.ryancui.timer
+package cn.ryancui.class1.timer
 
 /**
   * A simple timer
-  * Created by Cuixuan on 2017/4/11.
+  * Created by Ryan on 2017/4/11.
   */
 object Timer {
 
